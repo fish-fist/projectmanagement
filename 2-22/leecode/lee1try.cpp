@@ -29,7 +29,7 @@ int main() {
         cout << "找到两个数，它们的下标分别是: " << result[0] << " 和 " << result[1] << endl;
     }
     else {
-        cout << "没有找到符合条件的两个数1111111111111111。" << endl;
+        cout << "没有找到符合条件的。" << endl;
     }
 
     return 0;
